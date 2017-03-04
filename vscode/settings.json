@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "'PingFang SC', Consolas",
+
+    "markdown.styles": [
+        "C:\\Users\\royal\\Documents\\vscode-markdown.css"
+    ],
+
+    "pandoc.pdfOptString": "--latex-engine=xelatex --toc --smart -s -N -V mainfont=\"PingFang SC\"",
+
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Solarized Light"
+}
